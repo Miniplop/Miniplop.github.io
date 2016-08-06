@@ -43,6 +43,7 @@ body {
   background: #ececec; }
 
 .header {
+  z-index: 10000;
   width: 100%;
   height: 56px;
   color: #FFF;
